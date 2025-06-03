@@ -1,0 +1,17 @@
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: weather-simulator
+spec:
+  schedule: "*/5 * * * *"  # every 5 minutes
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+            - name: weather-simulator
+              image: railsightregistry.azurecr.io/railsimulator:latest
+              command: ["python", "data_simulator/simulate_weather.py"]
+          restartPolicy: OnFailure
+          imagePullSecrets:
+            - name: acr-secret

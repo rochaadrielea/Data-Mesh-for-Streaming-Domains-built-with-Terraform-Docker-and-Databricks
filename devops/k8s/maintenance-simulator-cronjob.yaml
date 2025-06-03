@@ -1,0 +1,15 @@
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: maintenance-simulator
+spec:
+  schedule: "0 * * * *"  # every hour
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+          - name: maintenance-simulator
+            image: railsightregistry.azurecr.io/railsimulator:latest
+            command: ["python", "simulate_domain_cli.py", "--domain", "maintenance"]
+          restartPolicy: OnFailure

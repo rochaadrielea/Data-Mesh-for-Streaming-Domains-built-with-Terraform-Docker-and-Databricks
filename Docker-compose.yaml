@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+  telemetry:
+    build: .
+    command: ["python", "simulate_telemetry.py"]
+    ports:
+      - "5000:5000"  # Exposes container's port 5000 to localhost:5000
+
+  weather:
+    build: .
+    command: ["python", "simulate_weather.py"]
+    ports:
+      - "5001:5000"  # Inside container it's still 5000, outside it's 5001
+
+  vehicle_usage:
+    build: .
+    command: ["python", "simulate_vehicle_usage.py"]
+    ports:
+      - "5002:5000"
+
+  maintenance:
+    build: .
+    command: ["python", "simulate_maintenance_logs.py"]
+    ports:
+      - "5003:5000"
+
+  energy_costs:
+    build: .
+    command: ["python", "simulate_energy_costs.py"]
+    ports:
+      - "5004:5000"
+    environment:
+      - TELEMETRY_SERVICE_URL=http://telemetry:5000
+      - WEATHER_SERVICE_URL=http://weather:5000
+      - VEHICLE_USAGE_SERVICE_URL=http://vehicle_usage:5000
+      - MAINTENANCE_SERVICE_URL=http://maintenance:5000

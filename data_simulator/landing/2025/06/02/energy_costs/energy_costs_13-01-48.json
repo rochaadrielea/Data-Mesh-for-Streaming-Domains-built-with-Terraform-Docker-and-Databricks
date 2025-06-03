@@ -1,0 +1,168 @@
+{"timestamp":"2025-06-02T13:01:55.053561","provider":"PowerX","cost_per_kwh":0.144}
+{"timestamp":"2025-06-02T12:01:55.053561","provider":"PowerX","cost_per_kwh":0.146}
+{"timestamp":"2025-06-02T11:01:55.053561","provider":"PowerX","cost_per_kwh":0.081}
+{"timestamp":"2025-06-02T10:01:55.053561","provider":"GridCo","cost_per_kwh":0.132}
+{"timestamp":"2025-06-02T09:01:55.053561","provider":"PowerX","cost_per_kwh":0.133}
+{"timestamp":"2025-06-02T08:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.145}
+{"timestamp":"2025-06-02T07:01:55.053561","provider":"GridCo","cost_per_kwh":0.167}
+{"timestamp":"2025-06-02T06:01:55.053561","provider":"GridCo","cost_per_kwh":0.138}
+{"timestamp":"2025-06-02T05:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.106}
+{"timestamp":"2025-06-02T04:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.176}
+{"timestamp":"2025-06-02T03:01:55.053561","provider":"GridCo","cost_per_kwh":0.169}
+{"timestamp":"2025-06-02T02:01:55.053561","provider":"PowerX","cost_per_kwh":0.115}
+{"timestamp":"2025-06-02T01:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.171}
+{"timestamp":"2025-06-02T00:01:55.053561","provider":"PowerX","cost_per_kwh":0.106}
+{"timestamp":"2025-06-01T23:01:55.053561","provider":"GridCo","cost_per_kwh":0.153}
+{"timestamp":"2025-06-01T22:01:55.053561","provider":"PowerX","cost_per_kwh":0.168}
+{"timestamp":"2025-06-01T21:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.127}
+{"timestamp":"2025-06-01T20:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.096}
+{"timestamp":"2025-06-01T19:01:55.053561","provider":"GridCo","cost_per_kwh":0.09}
+{"timestamp":"2025-06-01T18:01:55.053561","provider":"GridCo","cost_per_kwh":0.138}
+{"timestamp":"2025-06-01T17:01:55.053561","provider":"GridCo","cost_per_kwh":0.113}
+{"timestamp":"2025-06-01T16:01:55.053561","provider":"GridCo","cost_per_kwh":0.161}
+{"timestamp":"2025-06-01T15:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.173}
+{"timestamp":"2025-06-01T14:01:55.053561","provider":"PowerX","cost_per_kwh":0.141}
+{"timestamp":"2025-06-01T13:01:55.053561","provider":"PowerX","cost_per_kwh":0.125}
+{"timestamp":"2025-06-01T12:01:55.053561","provider":"GridCo","cost_per_kwh":0.127}
+{"timestamp":"2025-06-01T11:01:55.053561","provider":"PowerX","cost_per_kwh":0.159}
+{"timestamp":"2025-06-01T10:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.154}
+{"timestamp":"2025-06-01T09:01:55.053561","provider":"GridCo","cost_per_kwh":0.174}
+{"timestamp":"2025-06-01T08:01:55.053561","provider":"GridCo","cost_per_kwh":0.09}
+{"timestamp":"2025-06-01T07:01:55.053561","provider":"GridCo","cost_per_kwh":0.172}
+{"timestamp":"2025-06-01T06:01:55.053561","provider":"PowerX","cost_per_kwh":0.112}
+{"timestamp":"2025-06-01T05:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.173}
+{"timestamp":"2025-06-01T04:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.106}
+{"timestamp":"2025-06-01T03:01:55.053561","provider":"GridCo","cost_per_kwh":0.099}
+{"timestamp":"2025-06-01T02:01:55.053561","provider":"GridCo","cost_per_kwh":0.12}
+{"timestamp":"2025-06-01T01:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.142}
+{"timestamp":"2025-06-01T00:01:55.053561","provider":"GridCo","cost_per_kwh":0.175}
+{"timestamp":"2025-05-31T23:01:55.053561","provider":"GridCo","cost_per_kwh":0.103}
+{"timestamp":"2025-05-31T22:01:55.053561","provider":"PowerX","cost_per_kwh":0.095}
+{"timestamp":"2025-05-31T21:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.091}
+{"timestamp":"2025-05-31T20:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.099}
+{"timestamp":"2025-05-31T19:01:55.053561","provider":"GridCo","cost_per_kwh":0.106}
+{"timestamp":"2025-05-31T18:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.154}
+{"timestamp":"2025-05-31T17:01:55.053561","provider":"GridCo","cost_per_kwh":0.169}
+{"timestamp":"2025-05-31T16:01:55.053561","provider":"GridCo","cost_per_kwh":0.116}
+{"timestamp":"2025-05-31T15:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.161}
+{"timestamp":"2025-05-31T14:01:55.053561","provider":"PowerX","cost_per_kwh":0.083}
+{"timestamp":"2025-05-31T13:01:55.053561","provider":"GridCo","cost_per_kwh":0.101}
+{"timestamp":"2025-05-31T12:01:55.053561","provider":"GridCo","cost_per_kwh":0.173}
+{"timestamp":"2025-05-31T11:01:55.053561","provider":"PowerX","cost_per_kwh":0.17}
+{"timestamp":"2025-05-31T10:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.08}
+{"timestamp":"2025-05-31T09:01:55.053561","provider":"GridCo","cost_per_kwh":0.161}
+{"timestamp":"2025-05-31T08:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.163}
+{"timestamp":"2025-05-31T07:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.152}
+{"timestamp":"2025-05-31T06:01:55.053561","provider":"PowerX","cost_per_kwh":0.178}
+{"timestamp":"2025-05-31T05:01:55.053561","provider":"PowerX","cost_per_kwh":0.172}
+{"timestamp":"2025-05-31T04:01:55.053561","provider":"PowerX","cost_per_kwh":0.151}
+{"timestamp":"2025-05-31T03:01:55.053561","provider":"GridCo","cost_per_kwh":0.139}
+{"timestamp":"2025-05-31T02:01:55.053561","provider":"PowerX","cost_per_kwh":0.153}
+{"timestamp":"2025-05-31T01:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.105}
+{"timestamp":"2025-05-31T00:01:55.053561","provider":"PowerX","cost_per_kwh":0.168}
+{"timestamp":"2025-05-30T23:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.088}
+{"timestamp":"2025-05-30T22:01:55.053561","provider":"PowerX","cost_per_kwh":0.102}
+{"timestamp":"2025-05-30T21:01:55.053561","provider":"PowerX","cost_per_kwh":0.08}
+{"timestamp":"2025-05-30T20:01:55.053561","provider":"GridCo","cost_per_kwh":0.14}
+{"timestamp":"2025-05-30T19:01:55.053561","provider":"GridCo","cost_per_kwh":0.177}
+{"timestamp":"2025-05-30T18:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.087}
+{"timestamp":"2025-05-30T17:01:55.053561","provider":"GridCo","cost_per_kwh":0.105}
+{"timestamp":"2025-05-30T16:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.139}
+{"timestamp":"2025-05-30T15:01:55.053561","provider":"GridCo","cost_per_kwh":0.087}
+{"timestamp":"2025-05-30T14:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.155}
+{"timestamp":"2025-05-30T13:01:55.053561","provider":"PowerX","cost_per_kwh":0.139}
+{"timestamp":"2025-05-30T12:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.087}
+{"timestamp":"2025-05-30T11:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.098}
+{"timestamp":"2025-05-30T10:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.175}
+{"timestamp":"2025-05-30T09:01:55.053561","provider":"PowerX","cost_per_kwh":0.151}
+{"timestamp":"2025-05-30T08:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.113}
+{"timestamp":"2025-05-30T07:01:55.053561","provider":"PowerX","cost_per_kwh":0.085}
+{"timestamp":"2025-05-30T06:01:55.053561","provider":"GridCo","cost_per_kwh":0.16}
+{"timestamp":"2025-05-30T05:01:55.053561","provider":"PowerX","cost_per_kwh":0.127}
+{"timestamp":"2025-05-30T04:01:55.053561","provider":"GridCo","cost_per_kwh":0.116}
+{"timestamp":"2025-05-30T03:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.092}
+{"timestamp":"2025-05-30T02:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.109}
+{"timestamp":"2025-05-30T01:01:55.053561","provider":"GridCo","cost_per_kwh":0.091}
+{"timestamp":"2025-05-30T00:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.1}
+{"timestamp":"2025-05-29T23:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.126}
+{"timestamp":"2025-05-29T22:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.12}
+{"timestamp":"2025-05-29T21:01:55.053561","provider":"PowerX","cost_per_kwh":0.128}
+{"timestamp":"2025-05-29T20:01:55.053561","provider":"PowerX","cost_per_kwh":0.179}
+{"timestamp":"2025-05-29T19:01:55.053561","provider":"PowerX","cost_per_kwh":0.17}
+{"timestamp":"2025-05-29T18:01:55.053561","provider":"GridCo","cost_per_kwh":0.106}
+{"timestamp":"2025-05-29T17:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.084}
+{"timestamp":"2025-05-29T16:01:55.053561","provider":"PowerX","cost_per_kwh":0.136}
+{"timestamp":"2025-05-29T15:01:55.053561","provider":"PowerX","cost_per_kwh":0.173}
+{"timestamp":"2025-05-29T14:01:55.053561","provider":"GridCo","cost_per_kwh":0.142}
+{"timestamp":"2025-05-29T13:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.138}
+{"timestamp":"2025-05-29T12:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.097}
+{"timestamp":"2025-05-29T11:01:55.053561","provider":"PowerX","cost_per_kwh":0.139}
+{"timestamp":"2025-05-29T10:01:55.053561","provider":"PowerX","cost_per_kwh":0.143}
+{"timestamp":"2025-05-29T09:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.169}
+{"timestamp":"2025-05-29T08:01:55.053561","provider":"PowerX","cost_per_kwh":0.086}
+{"timestamp":"2025-05-29T07:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.12}
+{"timestamp":"2025-05-29T06:01:55.053561","provider":"GridCo","cost_per_kwh":0.105}
+{"timestamp":"2025-05-29T05:01:55.053561","provider":"PowerX","cost_per_kwh":0.107}
+{"timestamp":"2025-05-29T04:01:55.053561","provider":"PowerX","cost_per_kwh":0.114}
+{"timestamp":"2025-05-29T03:01:55.053561","provider":"GridCo","cost_per_kwh":0.131}
+{"timestamp":"2025-05-29T02:01:55.053561","provider":"GridCo","cost_per_kwh":0.162}
+{"timestamp":"2025-05-29T01:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.163}
+{"timestamp":"2025-05-29T00:01:55.053561","provider":"GridCo","cost_per_kwh":0.143}
+{"timestamp":"2025-05-28T23:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.141}
+{"timestamp":"2025-05-28T22:01:55.053561","provider":"PowerX","cost_per_kwh":0.111}
+{"timestamp":"2025-05-28T21:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.126}
+{"timestamp":"2025-05-28T20:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.16}
+{"timestamp":"2025-05-28T19:01:55.053561","provider":"GridCo","cost_per_kwh":0.157}
+{"timestamp":"2025-05-28T18:01:55.053561","provider":"PowerX","cost_per_kwh":0.14}
+{"timestamp":"2025-05-28T17:01:55.053561","provider":"GridCo","cost_per_kwh":0.122}
+{"timestamp":"2025-05-28T16:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.15}
+{"timestamp":"2025-05-28T15:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.174}
+{"timestamp":"2025-05-28T14:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.119}
+{"timestamp":"2025-05-28T13:01:55.053561","provider":"PowerX","cost_per_kwh":0.116}
+{"timestamp":"2025-05-28T12:01:55.053561","provider":"PowerX","cost_per_kwh":0.125}
+{"timestamp":"2025-05-28T11:01:55.053561","provider":"GridCo","cost_per_kwh":0.125}
+{"timestamp":"2025-05-28T10:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.116}
+{"timestamp":"2025-05-28T09:01:55.053561","provider":"GridCo","cost_per_kwh":0.163}
+{"timestamp":"2025-05-28T08:01:55.053561","provider":"PowerX","cost_per_kwh":0.093}
+{"timestamp":"2025-05-28T07:01:55.053561","provider":"GridCo","cost_per_kwh":0.133}
+{"timestamp":"2025-05-28T06:01:55.053561","provider":"GridCo","cost_per_kwh":0.134}
+{"timestamp":"2025-05-28T05:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.088}
+{"timestamp":"2025-05-28T04:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.13}
+{"timestamp":"2025-05-28T03:01:55.053561","provider":"GridCo","cost_per_kwh":0.108}
+{"timestamp":"2025-05-28T02:01:55.053561","provider":"GridCo","cost_per_kwh":0.152}
+{"timestamp":"2025-05-28T01:01:55.053561","provider":"GridCo","cost_per_kwh":0.161}
+{"timestamp":"2025-05-28T00:01:55.053561","provider":"PowerX","cost_per_kwh":0.158}
+{"timestamp":"2025-05-27T23:01:55.053561","provider":"PowerX","cost_per_kwh":0.159}
+{"timestamp":"2025-05-27T22:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.168}
+{"timestamp":"2025-05-27T21:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.117}
+{"timestamp":"2025-05-27T20:01:55.053561","provider":"PowerX","cost_per_kwh":0.149}
+{"timestamp":"2025-05-27T19:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.174}
+{"timestamp":"2025-05-27T18:01:55.053561","provider":"PowerX","cost_per_kwh":0.12}
+{"timestamp":"2025-05-27T17:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.097}
+{"timestamp":"2025-05-27T16:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.17}
+{"timestamp":"2025-05-27T15:01:55.053561","provider":"GridCo","cost_per_kwh":0.1}
+{"timestamp":"2025-05-27T14:01:55.053561","provider":"GridCo","cost_per_kwh":0.148}
+{"timestamp":"2025-05-27T13:01:55.053561","provider":"PowerX","cost_per_kwh":0.161}
+{"timestamp":"2025-05-27T12:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.125}
+{"timestamp":"2025-05-27T11:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.178}
+{"timestamp":"2025-05-27T10:01:55.053561","provider":"GridCo","cost_per_kwh":0.117}
+{"timestamp":"2025-05-27T09:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.172}
+{"timestamp":"2025-05-27T08:01:55.053561","provider":"GridCo","cost_per_kwh":0.093}
+{"timestamp":"2025-05-27T07:01:55.053561","provider":"GridCo","cost_per_kwh":0.152}
+{"timestamp":"2025-05-27T06:01:55.053561","provider":"GridCo","cost_per_kwh":0.174}
+{"timestamp":"2025-05-27T05:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.11}
+{"timestamp":"2025-05-27T04:01:55.053561","provider":"PowerX","cost_per_kwh":0.159}
+{"timestamp":"2025-05-27T03:01:55.053561","provider":"GridCo","cost_per_kwh":0.142}
+{"timestamp":"2025-05-27T02:01:55.053561","provider":"GridCo","cost_per_kwh":0.107}
+{"timestamp":"2025-05-27T01:01:55.053561","provider":"PowerX","cost_per_kwh":0.086}
+{"timestamp":"2025-05-27T00:01:55.053561","provider":"GridCo","cost_per_kwh":0.134}
+{"timestamp":"2025-05-26T23:01:55.053561","provider":"PowerX","cost_per_kwh":0.083}
+{"timestamp":"2025-05-26T22:01:55.053561","provider":"GridCo","cost_per_kwh":0.124}
+{"timestamp":"2025-05-26T21:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.098}
+{"timestamp":"2025-05-26T20:01:55.053561","provider":"PowerX","cost_per_kwh":0.171}
+{"timestamp":"2025-05-26T19:01:55.053561","provider":"GridCo","cost_per_kwh":0.151}
+{"timestamp":"2025-05-26T18:01:55.053561","provider":"GridCo","cost_per_kwh":0.15}
+{"timestamp":"2025-05-26T17:01:55.053561","provider":"GridCo","cost_per_kwh":0.134}
+{"timestamp":"2025-05-26T16:01:55.053561","provider":"ABB Energy","cost_per_kwh":0.107}
+{"timestamp":"2025-05-26T15:01:55.053561","provider":"PowerX","cost_per_kwh":0.158}
+{"timestamp":"2025-05-26T14:01:55.053561","provider":"GridCo","cost_per_kwh":0.168}

@@ -1,0 +1,24 @@
+# Python virtual environments
+.venv/
+.venv-wsl/
+
+# Secrets
+secrets/
+secrets.json
+
+# Terraform state
+*.tfstate
+*.tfstate.backup
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+
+# Databricks
+.dbc
+.dbc-temp/
+plan.json
+plan_export.csv
+tfplan.binary
+
+# VSCode
+.vscode/

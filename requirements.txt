@@ -1,0 +1,15 @@
+# Core libraries
+pandas
+numpy
+
+# Date handling (included with Python but safe to note)
+python-dateutil
+
+# Azure Blob Storage SDK
+azure-storage-blob
+
+# CLI utilities
+argparse
+
+# Optional but useful
+python-dotenv  # if you want to manage secrets in .env files
