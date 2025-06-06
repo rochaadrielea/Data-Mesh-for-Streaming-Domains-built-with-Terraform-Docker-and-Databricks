@@ -168,6 +168,7 @@ spec:
 - ✅ Blob ingestion + Autoloader
 - ✅ ML scoring + model logging
 - ✅ Kubernetes orchestration (telemetry + vehicle_usage)
+- ✅ Terraform infrastructure provisioning( azure and k8s provisioned via devops/terraform/main.tf)
 - 🔲 Synapse integration (up next)
 - 🔲 CI/CD pipeline via GitHub Actions
 
