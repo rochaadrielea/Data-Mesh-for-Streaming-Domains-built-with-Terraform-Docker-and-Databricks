@@ -14,9 +14,7 @@ variables:
   TF_VAR_acr_email: $(acr_email)
 
 steps:
-- task: UseTerraform@0
-  inputs:
-    terraformVersion: '1.6.0'
+
 
 - script: |
     terraform init
